@@ -29,5 +29,5 @@ Hello! My name is Katlyn Goeujon-Mackness, a Python developer and data scientist
 
 ## Connect with Me
 I'm always looking for feedback and collaboration. 
-Feel free to find me on LinkedIn: [Katlyn Goeujon-Mackness](www.linkedin.com/in/katlyngm-datos)
-Or send me an email: macknessk@gmail.com
+- Feel free to find me on LinkedIn: [Katlyn Goeujon-Mackness](www.linkedin.com/in/katlyngm-datos)
+- Or send me an email: macknessk@gmail.com
