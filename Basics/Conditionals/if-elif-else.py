@@ -1,9 +1,11 @@
 #Katie Mackness
-# 18/05/2024
-# Chapter five exercises part 2
+# 18/05/2024 - Updated 18/02/2025
+# Python 3.11.4
+# ----------------------------------------------------------
+# Conditional Tests
+# ----------------------------------------------------------
 
-# 5-3 Alien Colors
-
+# Assign a point value depending on the color of an alien in a game
 alien_color = 'green'
 
 if alien_color == 'green':
@@ -15,9 +17,8 @@ elif alien_color == 'red':
 else:
     print("Keep trying")
 
-# 5-6 Stages of Life
-
-def stages_of_life(name, age):
+# Determine the stage of life of a person based on their age
+def stages_of_life(name: str, age: int) -> None:
     if age < 2:
         print(f"{name} is a baby")
     elif age >= 2 and age < 4:
@@ -42,5 +43,5 @@ people = {
     "Sandretta": 65
     }
 
-for person in people:
-    stages_of_life(person, people[person])
+for name, age in people.items():
+    stages_of_life(name, age)
