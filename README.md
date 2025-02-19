@@ -1,4 +1,4 @@
-# Katlyn's Python Samples 🐍
+# Python Samples 🐍
 This repository is a collection of Python projects code examples from beginner to advanced topics. It is intended to showcase the range the depth of my skills in Python programming.
 
 ## About Me
