@@ -1,8 +1,9 @@
-# Katie mackness
-# 28/06/24
-# Chapter 9 exercises
+# Katie Mackness
+# 28/06/24 - Updated 19/02/2025
 
-# 9-1 Restaurant
+# --------------------------------------------------------
+# Object-oriented programming - Classes and Instances
+# --------------------------------------------------------
 
 class Restaurant:
     """Simple model for a restaurant"""
