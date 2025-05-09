@@ -1,22 +1,38 @@
-# Python Samples 🐍
-This repository is a collection of Python projects code examples from beginner to advanced topics. It is intended to showcase the range the depth of my skills in Python programming. Examples are given in both English and Spanish.
+# Python Code Examples
+
+Welcome to my Python projects repository! This collection showcases code examples ranging from beginner to advanced topics. My goal is to demonstrate my expertise in Python programming, covering fundamental syntax, control flow, functions, object-oriented programming, and popular libraries.
+
+**Note:** Examples are provided in both English and Spanish.
 
 ## About Me
-Hello! My name is Katlyn Goeujon-Mackness, a Python developer and data scientist with experience in many facets of Python and popular libraries. I am most interested in machine learning algorithms and exploring the breadth of what libraries like NumPy and scikit-learn have to offer.
+Hello! I'm **Katlyn Goeujon-Mackness**, a Python developer and data scientist passionate about Python and its libraries. My main interest lies in machine learning algorithms and exploring the capabilities of tools like NumPy and scikit-learn.
 
 ## Repository Structure
-### Basic Syntax and Operations
-- Conditionals (if/elif/else) - English and Spanish
-- Control flow - Spanish
-- Functions in English and Spanish
-- Lists - English
-- Object-oriented programming - English and Spanish
 
-### Libraries and Frameworks
-- Pandas - Spanish
-- MatPlotLib - Spanish
+This repository is organized into sections based on Python concepts and libraries:
+
+### **Fundamentals**
+- **Conditionals (if/elif/else)**
+  - Provided in English and Spanish
+- **Control Flow**
+  - Spanish version available
+- **Functions**
+  - Examples in both English and Spanish
+- **Lists**
+  - English version available
+- **Object-Oriented Programming**
+  - Provided in both English and Spanish
+
+### **Libraries and Frameworks**
+- **Pandas**
+  - Spanish version available
+- **Matplotlib**
+  - Spanish version available
 
 ## Connect with Me
-I'm always looking for feedback and collaboration. 
-- Feel free to find me on LinkedIn: [Katlyn Goeujon-Mackness](www.linkedin.com/in/katlyngm-datos)
-- Or send me an email: macknessk@gmail.com
+I'm always open to feedback and collaboration! Feel free to reach out:
+- **LinkedIn:** Katlyn Goeujon-Mackness
+- **Email:** [macknessk@gmail.com](mailto:macknessk@gmail.com)
+
+## License
+This project is licensed under the **MIT License**.
