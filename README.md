@@ -29,7 +29,7 @@ This repository is organized into sections based on Python concepts and librarie
   *(English version available)*  
 
 - **Object-Oriented Programming (OOP)**  
-  Learn about classes and objects, encapsulation, inheritance, and polymorphism—the foundation of OOP principles in Python.  
+  Learn about classes and objects, encapsulation, inheritance, and polymorphism, which is the foundation of OOP principles in Python.  
   *(Provided in both English and Spanish)*  
 
 ### **Libraries and Frameworks**
