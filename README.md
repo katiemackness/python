@@ -10,10 +10,16 @@ Hello! I'm **Katlyn Goeujon-Mackness**, a Python developer and data scientist pa
 ## Repository Structure
 
 This repository is organized into sections based on Python concepts and libraries:
+1. [Fundamentals](#fundamentals)
+2. [Libraries & Frameworks](#libraries-and-frameworks)
+3. [Advanced Topics](#advanced-topics)
 
 ### **Fundamentals**
+- **Data Types and Variables**  
+  Learn about integers, floats, strings, and booleans, along with variable assignment and type conversion.
+  
 - **Conditionals (if/elif/else)**  
-  Learn how to make decisions in code using conditional statements, allowing programs to execute different paths based on given conditions.  
+  Make decisions in code using conditional statements to execute different paths based on given conditions.  
   *(Provided in English and Spanish)*  
 
 - **Control Flow**  
@@ -21,16 +27,25 @@ This repository is organized into sections based on Python concepts and librarie
   *(Spanish version available)*  
 
 - **Functions**  
-  Discover how to write reusable blocks of code with functions, including parameters, return values, and scope management.  
+  Write reusable blocks of code with functions, including parameters, return values, and scope management.  
   *(Examples in both English and Spanish)*  
 
 - **Lists**  
   Explore Python lists, a versatile data structure used to store ordered collections of elements and manipulate them efficiently.  
   *(English version available)*  
 
+- **Dictionaries**  
+  Utilize key-value storage with Python dictionaries for efficient lookups and data manipulation.
+
+- **Tuples and Sets**  
+  Discover immutable sequences (tuples) and unordered collections (sets) with unique elements.
+
 - **Object-Oriented Programming (OOP)**  
-  Learn about classes and objects, encapsulation, inheritance, and polymorphism, which is the foundation of OOP principles in Python.  
+  Learn about classes and objects, encapsulation, inheritance, and polymorphism—the foundation of OOP principles in Python.  
   *(Provided in both English and Spanish)*  
+
+- **Error Handling**  
+  Use `try`, `except`, `finally`, and `raise` statements to handle errors gracefully in Python.
 
 ### **Libraries and Frameworks**
 - **Pandas**  
@@ -40,6 +55,31 @@ This repository is organized into sections based on Python concepts and librarie
 - **Matplotlib**  
   Create informative visualizations with Matplotlib, a fundamental plotting library in Python for graphs, charts, and histograms.  
   *(Spanish version available)*  
+
+- **NumPy**  
+  Perform fast array manipulation and mathematical operations essential for scientific computing.
+
+- **Scikit-learn**  
+  Apply machine learning techniques including classification, regression, and clustering.
+
+- **Requests**  
+  Make HTTP requests to fetch data from APIs.
+
+- **Flask or Django**  
+  Build Python-based web applications using these popular web frameworks.
+
+### **Advanced Topics**
+- **File Handling**  
+  Read, write, and manipulate text and binary files using Python.
+
+- **Concurrency & Parallelism**  
+  Utilize threading, multiprocessing, and asynchronous programming to optimize performance.
+
+- **Regular Expressions**  
+  Search and manipulate strings efficiently using regex patterns.
+
+- **Data Visualization (Seaborn/Plotly)**  
+  Create more advanced plots and charts beyond Matplotlib for enhanced data presentation.
 
 ## Connect with Me
 I'm always open to feedback and collaboration! Feel free to reach out:
